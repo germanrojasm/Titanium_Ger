@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;social_logins_testing/app/controllers/test.js&apos;" deleteContents="false" description="Delete resource &apos;social_logins_testing/app/controllers/test.js&apos;" element1="/social_logins_testing/app/controllers/test.js" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1415665996610"/>
+</session>
